@@ -1,0 +1,33 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="ClaimCenter" values="groovy" collectionTime="1591978055431" />
+    </group>
+    <group name="Git">
+      <project id="ClaimCenter" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remote.branches.count.2+,data.local.branches.count.2+,config.ssh.enabled" collectionTime="1591978058532" />
+    </group>
+    <group name="vcs">
+      <project id="ClaimCenter" values="Git" collectionTime="1591978043777" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="ClaimCenter" values="Application" collectionTime="1591978043791" />
+    </group>
+    <group name="language-level">
+      <project id="ClaimCenter" values="JDK_1_8" collectionTime="1591978056983" />
+    </group>
+    <group name="file-type">
+      <project id="ClaimCenter" values="Typelist TTI,Typelist TTX,Entity Name,JSON,Properties,WSC,CSS,JAVA,Native,GosuTemplate,Plugin,ARCHIVE,Typelist TIX,HTML,SQL,PLAIN_TEXT,IDEA_MODULE,Groovy,DTI,Entity,PCF,XML,Images,Gosu,JavaScript,UNKNOWN" collectionTime="1591978051714" />
+    </group>
+    <group name="module type">
+      <project id="ClaimCenter" values="JAVA_MODULE" collectionTime="1591978043779" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.NewPlatformPluginAction" count="2" />
+      <entry feature="execute.Application.Debug" count="48" />
+      <entry feature="idea.caches.invalidated" count="3" />
+      <entry feature="ideaapp.started" count="12" />
+    </counts>
+  </component>
+</application>

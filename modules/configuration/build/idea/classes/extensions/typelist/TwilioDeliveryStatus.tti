@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<typelist xmlns="http://guidewire.com/typelists" name="TwilioDeliveryStatus" desc="">
+  <typecode
+    code="Delivered"
+    name="Delivered"/>
+  <typecode
+    code="NotDelivered"
+    name="Not Delivered"/>
+  <typecode
+    code="Sent"
+    name="Sent"/>
+  <typecode
+    code="Queued"
+    name="Queued"/>
+</typelist>

@@ -1,0 +1,25 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="251" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="13" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="336" y="151" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="311" y="172" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1366.768" x="413" y="148" />
+    <location key="new_plugin_dialog.0.0.1366.768" x="534" y="282" />
+    <location key="findTextDialog.0.0.1366.768" x="437" y="78" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="65" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" x="238" y="100" />
+    <location key="#xdebugger.evaluate.0.0.1366.768" x="0" y="119" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="112" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1344" height="215" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1344" height="215" />
+    <size key="DebuggerActiveHint.0.0.1366.768" width="290" height="423" />
+  </component>
+</application>

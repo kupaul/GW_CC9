@@ -1,0 +1,36 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Excel to XML</find>
+      <find>ready</find>
+      <find>.addEvent(</find>
+      <find>AssigneeAndGroupDisplayString</find>
+      <find>unable to assign; assigning to</find>
+      <find>claim.AssignedUser =</find>
+      <find>claim.AssignedUser</find>
+      <find>GlobalClaimAssignmentRules</find>
+      <find>Assignment rules</find>
+      <find>Using</find>
+      <find>.Warn</find>
+      <find>logger.warn</find>
+      <find>AssignedUser</find>
+      <find>twiliom</find>
+      <find>ClaimContact</find>
+      <find>twilioSMS</find>
+      <find>ClaimAssigned</find>
+      <find>.AssignedUser</find>
+      <find>.AssignedUser =</find>
+      <find>ClaimAssignment</find>
+      <find>ClaimAdded</find>
+      <find>assigning to system default owner</find>
+      <find>Assignment rules did not determine a group</find>
+      <find>Default Root Group</find>
+      <find>WeightedAssignmentEnabled</find>
+      <find>Estimated completion date</find>
+      <find>Completiondate</find>
+      <find>ExpectedServiceCompletionDate</find>
+      <find>REgion</find>
+      <find>Western Region</find>
+    </findStrings>
+  </component>
+</application>
